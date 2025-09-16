@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IPm4B3kgHuXfCanzcZkxMGpO6jCa6LY7HXPE9NBN5rbTCUcwjZeL+kufAqJEsHTGa3f/+ULG0aXk2wMKrodCqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASHMIT GUPTA\\Desktop\\E-commerce acmegrade\\BeautyBooking\\BeautyBooking.Common\\BeautyBooking.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASHMIT GUPTA\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ASHMIT GUPTA\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ASHMIT GUPTA\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.164\\stylecop.analyzers.1.2.0-beta.164.nupkg.sha512",
+    "C:\\Users\\ASHMIT GUPTA\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.164\\stylecop.analyzers.unstable.1.2.0.164.nupkg.sha512"
+  ],
+  "logs": []
+}
