@@ -1,0 +1,12 @@
+C:\Users\ASHMIT GUPTA\Desktop\E-commerce acmegrade\BeautyBooking\Services\BeautyBooking.Services\bin\Debug\netstandard2.0\BeautyBooking.Services.deps.json
+C:\Users\ASHMIT GUPTA\Desktop\E-commerce acmegrade\BeautyBooking\Services\BeautyBooking.Services\bin\Debug\netstandard2.0\BeautyBooking.Services.dll
+C:\Users\ASHMIT GUPTA\Desktop\E-commerce acmegrade\BeautyBooking\Services\BeautyBooking.Services\bin\Debug\netstandard2.0\BeautyBooking.Services.pdb
+C:\Users\ASHMIT GUPTA\Desktop\E-commerce acmegrade\BeautyBooking\Services\BeautyBooking.Services\bin\Debug\netstandard2.0\BeautyBooking.Common.dll
+C:\Users\ASHMIT GUPTA\Desktop\E-commerce acmegrade\BeautyBooking\Services\BeautyBooking.Services\bin\Debug\netstandard2.0\BeautyBooking.Common.pdb
+C:\Users\ASHMIT GUPTA\Desktop\E-commerce acmegrade\BeautyBooking\Services\BeautyBooking.Services\obj\Debug\netstandard2.0\BeautyBooking.Services.csprojAssemblyReference.cache
+C:\Users\ASHMIT GUPTA\Desktop\E-commerce acmegrade\BeautyBooking\Services\BeautyBooking.Services\obj\Debug\netstandard2.0\BeautyBooking.Services.AssemblyInfoInputs.cache
+C:\Users\ASHMIT GUPTA\Desktop\E-commerce acmegrade\BeautyBooking\Services\BeautyBooking.Services\obj\Debug\netstandard2.0\BeautyBooking.Services.AssemblyInfo.cs
+C:\Users\ASHMIT GUPTA\Desktop\E-commerce acmegrade\BeautyBooking\Services\BeautyBooking.Services\obj\Debug\netstandard2.0\BeautyBooking.Services.csproj.CoreCompileInputs.cache
+C:\Users\ASHMIT GUPTA\Desktop\E-commerce acmegrade\BeautyBooking\Services\BeautyBooking.Services\obj\Debug\netstandard2.0\BeautyBooking.Services.csproj.CopyComplete
+C:\Users\ASHMIT GUPTA\Desktop\E-commerce acmegrade\BeautyBooking\Services\BeautyBooking.Services\obj\Debug\netstandard2.0\BeautyBooking.Services.dll
+C:\Users\ASHMIT GUPTA\Desktop\E-commerce acmegrade\BeautyBooking\Services\BeautyBooking.Services\obj\Debug\netstandard2.0\BeautyBooking.Services.pdb
